@@ -22,13 +22,13 @@ Released By: Fabrizio Amorelli
 
 ### Componenti
 - [MegaCMD](https://mega.nz/cmd)
-- [cURL] (https://curl.haxx.se)
+- [cURL](https://curl.haxx.se)
 
 ### Download
 
-- [Windows Installer x86] (https://www.multi-installer.it/windows/download.php?id=F32)
-- [Windows Installer x64] (https://www.multi-installer.it/windows/download.php?id=F64)
-- [Portable Mega x86] (https://www.multi-installer.it/windows/download.php?id=1)
-- [Portable Mega x64] (https://www.multi-installer.it/windows/download.php?id=2)
-- [Portable Standard x86] (https://www.multi-installer.it/windows/download.php?id=3)
-- [Portable Standard x64] (https://www.multi-installer.it/windows/download.php?id=4)
+- [Windows Installer x86](https://www.multi-installer.it/windows/download.php?id=F32)
+- [Windows Installer x64](https://www.multi-installer.it/windows/download.php?id=F64)
+- [Portable Mega x86](https://www.multi-installer.it/windows/download.php?id=1)
+- [Portable Mega x64](https://www.multi-installer.it/windows/download.php?id=2)
+- [Portable Standard x86](https://www.multi-installer.it/windows/download.php?id=3)
+- [Portable Standard x64](https://www.multi-installer.it/windows/download.php?id=4)
