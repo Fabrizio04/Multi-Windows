@@ -22,7 +22,7 @@ Released By: Fabrizio Amorelli
 
 ### Componenti
 - [MegaCMD](https://mega.nz/cmd)
-- [cURL] (https://curl.haxx.se/)
+- [cURL] (https://curl.haxx.se)
 
 ### Download
 
