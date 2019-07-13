@@ -1,0 +1,1 @@
+curl.exe -k https://ServerURLShared > "PathToDownload"
