@@ -1,4 +1,4 @@
-# Multi-Windows
+﻿# Multi-Windows
 ## Multi-Windows è un programma che ti consente di scaricare le immagini .ISO originali dei sistemi operativi Microsoft © Windows.
 
 Multi-Windows è 
@@ -18,7 +18,7 @@ Anno: 2019
 Released By: Fabrizio Amorelli
 
 ### Installazione
-- Consultare il [manuale](manuali/Installazione_Configurazione_MultiWindows.pdf) all'interno della cartella dedicata per le istruzioni d'installazione e d'uso.
+- Consultare il [manuale](manuali/Multi-Windows.pdf) all'interno della cartella dedicata per le istruzioni d'installazione e d'uso.
 
 ### Componenti
 - [MegaCMD](https://mega.nz/cmd)
