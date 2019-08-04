@@ -31,7 +31,7 @@ https://www.multi-installer.it/windows
 
 
 
-<table border="" width="35%" class="tabel">
+<table border="">
 
 <tbody><tr height="40" style="text-align:center;font-family: Verdana, Arial, Helvetica, sans-serif;">
 <td><strong>FILE</strong></td>
