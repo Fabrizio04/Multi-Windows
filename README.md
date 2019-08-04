@@ -29,12 +29,12 @@ https://www.multi-installer.it/windows
 # Download
 ### Windows Installer
 
-### SHA-256
-
 | ARCHITETTURA                                                          | DOWNLOAD                                                          |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|
-| 32 bit	| <img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"> |
-| 64 bit	|  |
+| 32 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=F32"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
+| 64 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=F64"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
+
+### SHA-256
 
 | FILE                                                          | HASH                                                          |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|
