@@ -58,4 +58,5 @@ https://www.multi-installer.it/windows
 
 | EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| Mega Cloud | 1.0 | <img src="https://www.multi-installer.it/windows/img-win/Mega.png" alt="Mega Cloud" > | In base alla connessione	| Limitata |
+| Mega Cloud | 1.0 | <img src="https://www.multi-installer.it/windows/img-win/Mega.png" alt="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
+| Standard | 1.0 | <img src="https://www.multi-installer.it/windows/img-win/Windows.png" alt="Official Microsoft" width="20" height="20" > <img src="https://www.multi-installer.it/windows/img-win/Multi.png" alt="Multi Server" width="20" height="20" > | In base alla connessione	| Limitata |
