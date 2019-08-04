@@ -30,6 +30,15 @@ https://www.multi-installer.it/windows
 ### Windows Installer
 
 
+<script type="text/javascript">
+function openinfo(id) {
+  
+  var con = id;
+
+  if (con == "64") { prompt("Multi-Windows-Setup-x86.exe\n\nSHA-256", "CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26"); }
+	if (con == "65") { prompt("Multi-Windows-Setup-x64.exe\n\nSHA-256", "A63B22105C2B2D5B9A40336DFBA0642993D598C26CDCC18BB083EA118B76A999"); }
+}
+</script>
 
 <table>
 
