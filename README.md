@@ -33,7 +33,7 @@ https://www.multi-installer.it/windows
 
 | ARCHITETTURA                                                          | DOWNLOAD                                                          |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|
-| 32 bit	| <img src="https://static.thenounproject.com/png/29074-200.png"> |
+| 32 bit	| <img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"> |
 | 64 bit	|  |
 
 | FILE                                                          | HASH                                                          |
