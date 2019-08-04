@@ -29,8 +29,7 @@ https://www.multi-installer.it/windows
 # Download
 ### Windows Installer
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26 | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| SHA-256                                                          | ARCHITETTURA  | | DOWNLOAD      |
+|:----------------------------------------------------------------:|:-------------:| |:-------------:|
+| CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26 | $1600 |
+| A63B22105C2B2D5B9A40336DFBA0642993D598C26CDCC18BB083EA118B76A999 |   $12 |
