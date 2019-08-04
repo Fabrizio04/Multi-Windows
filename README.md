@@ -44,8 +44,7 @@ https://www.multi-installer.it/windows
 <tr height="40" style="text-align:center;">
 <td><font face="Verdana" size="1" style="font-style: italic;">Multi-Windows-Setup-x86.exe</font></td>
 <td>
-<div class="tooltip"><span class="fa fa-question-circle" style="font-size:20px;color: #004B6B;cursor:pointer;" onclick="openinfo(64)"></span><span class="tooltiptext">&nbsp;(Clicca&nbsp;per&nbsp;l'hash)&nbsp;</span>
-</div>
+<span style="cursor:ponter;" title="CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26">?</span>
 </td>
 <td>23.0 MB</td>
 <td>32 Bit</td>
