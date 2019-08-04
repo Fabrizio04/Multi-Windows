@@ -31,6 +31,6 @@ https://www.multi-installer.it/windows
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| col 3 is      | CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26 | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
