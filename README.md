@@ -40,3 +40,11 @@ https://www.multi-installer.it/windows
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|
 | Multi-Windows-Setup-x86.exe	| CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26 |
 | Multi-Windows-Setup-x64.exe	| A63B22105C2B2D5B9A40336DFBA0642993D598C26CDCC18BB083EA118B76A999 |
+
+### Portable Version
+| EDIZIONE | ARCHITETTURA | DOWNLOAD |
+|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+| Mega | 32 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=1"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
+| Mega | 64 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=2"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
+| Standard | 32 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=3"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
+| Standard | 64 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=4"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
