@@ -26,7 +26,8 @@ https://www.multi-installer.it/windows
 - [MegaCMD](https://mega.nz/cmd)
 - [cURL](https://curl.haxx.se)
 
-### Download
+# Download
+### Windows Installer
 
 - [Windows Installer x86](https://www.multi-installer.it/windows/download.php?id=F32) SHA-256: CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26
 - [Windows Installer x64](https://www.multi-installer.it/windows/download.php?id=F64) SHA-256: A63B22105C2B2D5B9A40336DFBA0642993D598C26CDCC18BB083EA118B76A999
