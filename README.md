@@ -33,7 +33,7 @@ https://www.multi-installer.it/windows
 
 <table border="">
 
-<tbody><tr height="40" style="text-align:center;font-family: Verdana, Arial, Helvetica, sans-serif;">
+<tbody><tr style="text-align:center;font-family: Verdana, Arial, Helvetica, sans-serif;">
 <td><strong>FILE</strong></td>
 <td><strong>SHA-256</strong></td>
 <td><strong>DIMENSIONE</strong></td>
@@ -41,17 +41,18 @@ https://www.multi-installer.it/windows
 <td><strong>DOWNLOAD</strong></td>
 </tr>
 
-<tr height="40" style="text-align:center;">
+<tr style="text-align:center;">
 <td><font face="Verdana" size="1" style="font-style: italic;">Multi-Windows-Setup-x86.exe</font></td>
 <td>
-<span style="cursor:pointer;" title="CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26">?</span>
+<div class="tooltip"><span class="fa fa-question-circle" style="font-size:20px;color: #004B6B;cursor:pointer;" onclick="openinfo(65)"></span><span class="tooltiptext">&nbsp;(Clicca&nbsp;per&nbsp;l'hash)&nbsp;</span>
+</div>
 </td>
 <td>23.0 MB</td>
 <td>32 Bit</td>
 <td><a href="download.php?id=F32"><span class="fa fa-download" style="font-size:20px;color: #004B6B;cursor:pointer;"></span></a></td>
 </tr>
 
-<tr height="40" style="text-align:center;">
+<tr style="text-align:center;">
 <td><font face="Verdana" size="1" style="font-style: italic;">Multi-Windows-Setup-x64.exe</font></td>
 <td>
 <div class="tooltip"><span class="fa fa-question-circle" style="font-size:20px;color: #004B6B;cursor:pointer;" onclick="openinfo(65)"></span><span class="tooltiptext">&nbsp;(Clicca&nbsp;per&nbsp;l'hash)&nbsp;</span>
