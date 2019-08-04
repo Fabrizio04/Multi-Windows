@@ -34,4 +34,10 @@ https://www.multi-installer.it/windows
 | Multi-Windows-Setup-x86.exe |  |
 | Multi-Windows-Setup-x64.exe	| Content Cell  |
 
-<span class="fa fa-question-circle" style="font-size:20px;color: #004B6B;cursor:pointer;" onclick="openinfo(64)"></span>
+<table><tr><td>
+<pre>
+**Hello**,
+
+_world_.
+</pre>
+</td></tr></table>
