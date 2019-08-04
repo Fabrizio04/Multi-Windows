@@ -43,7 +43,7 @@ https://www.multi-installer.it/windows
 
 ### Portable Version
 | EDIZIONE | ARCHITETTURA | DOWNLOAD |
-|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
 | Mega | 32 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=1"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
 | Mega | 64 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=2"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
 | Standard | 32 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=3"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
