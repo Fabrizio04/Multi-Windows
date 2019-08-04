@@ -42,6 +42,7 @@ https://www.multi-installer.it/windows
 | Standard | 32 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=3"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
 | Standard | 64 bit	| <a href="https://www.multi-installer.it/windows/download.php?id=4"><img src="https://static.thenounproject.com/png/29074-200.png" width="20" height="20"></a> |
 
+
 ### SHA-256
 
 | FILE                                                          | HASH                                                          |
@@ -52,3 +53,9 @@ https://www.multi-installer.it/windows
 | Multi-Windows_Mega-Portable-x64.zip	| 248D14EA4E7C2FB356CC3510A268F0928BAF150CD51819DC5CBD0A2987889FCD |
 | Multi-Windows_Std-Portable-x86.zip | 3957035E2FBAFD42C8549211133366FB908A04F116D312755D2E8F69D315B87F |
 | Multi-Windows_Std-Portable-x64.zip | EE3411199CAE4E79E5F7DA6F5DA50BFBD964CCD6541120DDCB37B3A41B50CDF4 |
+
+### Info versioni
+
+| EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
+|:-------:|:-------:|:-------:|:-------:|:-------:|
+| Mega Cloud | 1.0 | <img src="https://www.multi-installer.it/windows/img-win/Mega.png" alt="Mega Cloud" > | In base alla connessione	| Limitata |
