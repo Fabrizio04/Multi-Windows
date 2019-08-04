@@ -44,7 +44,7 @@ https://www.multi-installer.it/windows
 <tr style="text-align:center;">
 <td><font face="Verdana" size="1" style="font-style: italic;">Multi-Windows-Setup-x86.exe</font></td>
 <td style="text-align:center;">
-<a href="prova.prova" onclick="alert();">?</a>
+<a href="#" alt="asdfasdf">?</a>
 </td>
 <td>23.0 MB</td>
 <td>32 Bit</td>
