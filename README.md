@@ -11,7 +11,7 @@ Multi-Windows è
 
 ### Info
 
-Versione: 1.0
+Versione: 1.1
 
 Anno: 2019
 
@@ -47,16 +47,16 @@ https://www.multi-installer.it/windows
 
 | FILE                                                          | HASH                                                          |
 |:----------------------------------------------------------------:|:----------------------------------------------------------------:|
-| Multi-Windows-Setup-x86.exe	| CC8B87BC742A0F062A702CC442AD441ADC3BCAA157B6013B84A7489E1C243A26 |
-| Multi-Windows-Setup-x64.exe	| A63B22105C2B2D5B9A40336DFBA0642993D598C26CDCC18BB083EA118B76A999 |
-| Multi-Windows_Mega-Portable-x86.zip	| 384FE1A2849E69E35E4B61AD36F09D18B7C7B570588D4E5F77D142C5CD75C29E |
-| Multi-Windows_Mega-Portable-x64.zip	| 248D14EA4E7C2FB356CC3510A268F0928BAF150CD51819DC5CBD0A2987889FCD |
-| Multi-Windows_Std-Portable-x86.zip | 3957035E2FBAFD42C8549211133366FB908A04F116D312755D2E8F69D315B87F |
-| Multi-Windows_Std-Portable-x64.zip | EE3411199CAE4E79E5F7DA6F5DA50BFBD964CCD6541120DDCB37B3A41B50CDF4 |
+| Multi-Windows-Setup-x86.exe	| 2E71489E2C784EDD4AD726C0CD241F40605AFB8D9A13AB9E7B3094B0B419F0FF |
+| Multi-Windows-Setup-x64.exe	| 0F6D96C853085387F8251633399B1033476B256B9655D52FA25C6CE6EA7601B4 |
+| Multi-Windows_Mega-Portable-x86.zip	| 592668F799FFA9001B94A2A7B92A4401FB11080CC0EA286490FC22185C03D3BA |
+| Multi-Windows_Mega-Portable-x64.zip	| 3D4230E0BCD7DB762C2DB107F096718D326066AA9CD3BB8B0DE48DC8D633913E |
+| Multi-Windows_Std-Portable-x86.zip | 5BC820D369B8BBB1877A413B345EC968B3370A9B99DCE277A4F41A7809E8F148 |
+| Multi-Windows_Std-Portable-x64.zip | 59110138CE6D5EBE0CBF046E435C79A15580B021915E8B60AE1B053AD6B0BCC5 |
 
 ### Info versioni
 
 | EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| Mega Cloud | 1.0 | <img src="https://www.multi-installer.it/windows/img-win/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
-| Standard | 1.0 | <img src="https://www.multi-installer.it/windows/img-win/Windows.png" title="Official Microsoft" width="20" height="20" > <img src="https://www.multi-installer.it/windows/img-win/Multi.png" title="Multi Server" width="20" height="20" > | In base alla connessione - MS<br>3,5 MB/s - Multi Server	| Illimitata |
+| Mega Cloud | 1.1 | <img src="https://www.multi-installer.it/windows/img-win/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
+| Standard | 1.1 | <img src="https://www.multi-installer.it/windows/img-win/Windows.png" title="Official Microsoft" width="20" height="20" > <img src="https://www.multi-installer.it/windows/img-win/Multi.png" title="Multi Server" width="20" height="20" > | In base alla connessione - MS<br>3,5 MB/s - Multi Server	| Illimitata |
