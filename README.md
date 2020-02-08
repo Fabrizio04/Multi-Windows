@@ -35,3 +35,7 @@ https://www.multi-installer.it/windows
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 | Mega Cloud | 1.2 | <img src="https://www.multi-installer.it/windows/img-win/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
 | Standard | 1.2 | <img src="https://www.multi-installer.it/windows/img-win/Windows.png" title="Official Microsoft" width="20" height="20" > <img src="https://www.multi-installer.it/windows/img-win/Multi.png" title="Multi Server" width="20" height="20" > | In base alla connessione - MS<br>3,5 MB/s - Multi Server	| Illimitata |
+
+# <img src="https://www.multi-installer.it/windows/img-win/new.gif" width="50" height="50"> Multi Windows - Desktop Edition <img src="https://www.multi-installer.it/windows/img-win/new.gif" width="50" height="50">
+- Prova la nuova esperienza di questa nuova versione riscritta, con interfaccia grafica e nuove piccole funzionalità<br>
+[Multi-Windows Desktop](https://github.com/Fabrizio04/Multi-Windows-Desktop/)
