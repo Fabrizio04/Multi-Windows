@@ -34,8 +34,8 @@ https://www.multi-installer.it/windows
 | EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
 | Mega Cloud | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
-| Mega Cloud | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
-| Mega Cloud | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
+| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
+| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Mega Cloud" width="20" height="20" > | 3,5 MB/s MAX	| Limitata |
 
 # Multi Windows - Desktop Edition
 - Prova la nuova esperienza di questa nuova versione riscritta, con interfaccia grafica e nuove piccole funzionalità<br>
