@@ -11,9 +11,9 @@ Multi-Windows è
 
 ### Info
 
-Versione: 1.2
+Versione: 1.3 <img id="srv" src="https://www.multi-installer.it/img/new.gif" width="35px" height="25px">
 
-Anno: 2019
+Anno: 2019-2020
 
 Released By: Fabrizio Amorelli
 
@@ -33,8 +33,9 @@ https://www.multi-installer.it/windows
 
 | EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
 |:-------:|:-------:|:-------:|:-------:|:-------:|
-| Mega Cloud | 1.3 <img id="srv" src="https://www.multi-installer.it/img/new.gif" width="35px" height="25px"> | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
-| Standard | 1.3 <img id="srv" src="https://www.multi-installer.it/img/new.gif" width="35px" height="25px"> | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Official Microsoft" width="20" height="20" > <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Multi Server" width="20" height="20" > | In base alla connessione - MS<br>3,5 MB/s - Multi Server	| Illimitata |
+| Mega Cloud | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
+| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Official Microsoft" width="20" height="20" > | In base alla connessione |
+| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Multi Server" width="20" height="20" > | 3,5 MB/s MAX |
 
 # Multi Windows - Desktop Edition
 - Prova la nuova esperienza di questa nuova versione riscritta, con interfaccia grafica e nuove piccole funzionalità<br>
