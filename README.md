@@ -11,7 +11,7 @@ Multi-Windows è
 
 ### Info
 
-Versione: 1.3 <img id="srv" src="https://www.multi-installer.it/img/new.gif" width="35px" height="25px">
+Versione: 1.3
 
 Anno: 2019-2020
 
