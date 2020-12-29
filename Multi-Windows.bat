@@ -5,11 +5,13 @@ if '%1' =='/mega' (
 
 if exist "C:\Program Files (x86)\Multi-Windows\Mega.exe" (
 cls
-"C:\Program Files (x86)\Multi-Windows\Mega.exe"
+start "" "C:\Program Files (x86)\Multi-Windows\Mega.exe"
+exit
 
 ) else if exist "C:\Program Files\Multi-Windows\Mega.exe" (
 cls
-"C:\Program Files\Multi-Windows\Mega.exe"
+start "" "C:\Program Files\Multi-Windows\Mega.exe"
+exit
 
 ) else (
 ECHO ERRORE.
@@ -19,11 +21,13 @@ ECHO ERRORE.
 
 if exist "C:\Program Files (x86)\Multi-Windows\Std.exe" (
 cls
-"C:\Program Files (x86)\Multi-Windows\Std.exe"
+start "" "C:\Program Files (x86)\Multi-Windows\Std.exe"
+exit
 
 ) else if exist "C:\Program Files\Multi-Windows\Std.exe" (
 cls
-"C:\Program Files\Multi-Windows\Std.exe"
+start "" "C:\Program Files\Multi-Windows\Std.exe"
+exit
 
 ) else (
 ECHO ERRORE.
@@ -34,9 +38,9 @@ ECHO ERRORE.
 ) else if '%1' =='/?' (
 ECHO.
 ECHO Multi-Windows by Fabrizio Amorelli
-ECHO Windows Service Version 1.0
+ECHO Windows Service Version 1.4
 ECHO Multi-Installer.it/Windows
-ECHO Anno 2019
+ECHO Anno 2020
 ECHO.
 ECHO Sintassi del comando:
 ECHO "multi-windows /mega" per l'edizione Mega Cloud

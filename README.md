@@ -1,4 +1,4 @@
-﻿﻿# Multi-Windows
+# Multi-Windows
 ## Multi-Windows è un programma che ti consente di scaricare le immagini .ISO originali dei sistemi operativi Microsoft © Windows.
 
 Multi-Windows è 
