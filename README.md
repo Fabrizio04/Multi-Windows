@@ -1,4 +1,4 @@
-﻿# Multi-Windows
+﻿﻿# Multi-Windows
 ## Multi-Windows è un programma che ti consente di scaricare le immagini .ISO originali dei sistemi operativi Microsoft © Windows.
 
 Multi-Windows è 
@@ -11,7 +11,7 @@ Multi-Windows è
 
 ### Info
 
-Versione: 1.3
+Versione: 1.4 <img src="https://multi-installer.it/img/new.gif" width="30" height="20">
 
 Anno: 2019-2020
 
@@ -25,17 +25,18 @@ https://www.multi-installer.it/windows
 ### Componenti
 - [MegaCMD](https://mega.nz/cmd)
 - [cURL](https://curl.haxx.se)
+- [Universal MediaCreationTool Wrapper](https://git.io/MediaCreationTool.bat)
 
 # Download
 - Puoi trovare le varie versioni nella pagine delle <a href="https://github.com/Fabrizio04/Multi-Windows/releases/">release</a>
 
 # Info versioni
 
-| EDIZIONE | VERSIONE | SERVER | VELOCITÀ MAX	| BANDA |
-|:-------:|:-------:|:-------:|:-------:|:-------:|
-| Mega Cloud | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Limitata |
-| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Mega Cloud" width="20" height="20" > | In base alla connessione	| Illimitata |
-| Standard | 1.3 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Mega Cloud" width="20" height="20" > | 3,5 MB/s MAX	| Illimitata |
+| EDIZIONE | VERSIONE | SERVER | BANDA |
+|:-------:|:-------:|:-------:|:-------:|
+| Mega Cloud | 1.4 | <img src="https://www.multi-installer.it/windows/ico/Mega.png" title="Mega Cloud" width="20" height="20" > | Limitata |
+| Standard | 1.4 | <img src="https://www.multi-installer.it/windows/ico/Windows.png" title="Mega Cloud" width="20" height="20" > | Illimitata |
+| Standard | 1.4 | <img src="https://www.multi-installer.it/windows/ico/Multi.png" title="Mega Cloud" width="20" height="20" > | Illimitata |
 
 # Multi Windows - Desktop Edition
 - Prova la nuova esperienza di questa nuova versione riscritta, con interfaccia grafica e nuove piccole funzionalità<br>
