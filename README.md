@@ -11,7 +11,7 @@ Multi-Windows è
 
 ### Info
 
-Versione: 1.4 <img src="https://multi-installer.it/img/new.gif" width="30" height="20">
+Versione: 1.4
 
 Anno: 2019-2020
 
