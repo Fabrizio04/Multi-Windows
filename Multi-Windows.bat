@@ -38,9 +38,9 @@ ECHO ERRORE.
 ) else if '%1' =='/?' (
 ECHO.
 ECHO Multi-Windows by Fabrizio Amorelli
-ECHO Windows Service Version 1.4
+ECHO Windows Service Version 1.5
 ECHO Multi-Installer.it/Windows
-ECHO Anno 2020
+ECHO Anno 2022
 ECHO.
 ECHO Sintassi del comando:
 ECHO "multi-windows /mega" per l'edizione Mega Cloud
